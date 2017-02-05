@@ -1,0 +1,8 @@
+Origin: ryanelliott
+Label: ryan
+Suite: stable
+Version: 1.0
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: ryan’s Cydia repository.
